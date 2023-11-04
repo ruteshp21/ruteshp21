@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruteshp21" alt="ruteshp21" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Advance Spring, Open source Contribution**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Java, Spring Boot, Microservices, OOPs**
 
 - 📫 How to reach me **ruteshp21@gmail.com**
 
-- ⚡ Fun fact **I am quite talkative**
+- ⚡ Fun fact **I am quite talkative 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
