@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutesh Patil</h1>
 <h3 align="center">I'm a software developer who is passionate about innovation and learning new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruteshp21&label=Hello%20Stranger&color=0091ff&style=flat-square" alt="ruteshp21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruteshp21&label=Visitors&color=0091ff&style=flat-square" alt="ruteshp21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruteshp21" alt="ruteshp21" /></a> </p>
 
